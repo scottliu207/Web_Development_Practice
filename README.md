@@ -1,1 +1,1 @@
-# Web exercise
+# All about web exercises.
